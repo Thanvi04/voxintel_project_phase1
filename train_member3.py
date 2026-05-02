@@ -162,3 +162,4 @@ while True:
     print("\n--- Response ---")
     print("English:", english_response)
     print("Tulu:", tulu_response)
+    print("test")
